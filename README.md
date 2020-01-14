@@ -12,4 +12,4 @@ The fourth chapter deals with the prediction of the presence of Arrythmia - and 
 
 The fifth chapter deals with the prediction of the possibility of a patient having Parkinson's Disease using their voices - using hidden markov models in Matlab.
 
-This was my first exposure to machine learning.
+This was my first exposure to machine learning. Except chapter 2 and 5, all the exercises had satisfactory results. 
